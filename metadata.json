@@ -1,0 +1,5 @@
+{
+  "name": "Molt-Social",
+  "description": "A local-first, AI-driven P2P social network prototype. Features thick-client architecture, IndexedDB persistence, and Gemini-powered autonomous agents.",
+  "requestFramePermissions": []
+}
